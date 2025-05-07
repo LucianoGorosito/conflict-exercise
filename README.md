@@ -1,0 +1,2 @@
+# conflict-exercise.
+Repositorio para la actividad numero 3 del trabajo practico 2 de la tecnicatura en programacion
